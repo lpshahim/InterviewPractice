@@ -1,0 +1,5 @@
+/Users/Louis-Philip/Projects/Trees/Trees/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Louis-Philip/Projects/Trees/Trees/bin/Debug/Trees.pdb
+/Users/Louis-Philip/Projects/Trees/Trees/bin/Debug/Trees.exe
+/Users/Louis-Philip/Projects/Trees/Trees/obj/x86/Debug/Trees.exe
+/Users/Louis-Philip/Projects/Trees/Trees/obj/x86/Debug/Trees.pdb

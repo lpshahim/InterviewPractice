@@ -1,0 +1,5 @@
+/Users/Louis-Philip/Projects/BitManipulation/BitManipulation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Louis-Philip/Projects/BitManipulation/BitManipulation/bin/Debug/BitManipulation.pdb
+/Users/Louis-Philip/Projects/BitManipulation/BitManipulation/bin/Debug/BitManipulation.exe
+/Users/Louis-Philip/Projects/BitManipulation/BitManipulation/obj/x86/Debug/BitManipulation.exe
+/Users/Louis-Philip/Projects/BitManipulation/BitManipulation/obj/x86/Debug/BitManipulation.pdb

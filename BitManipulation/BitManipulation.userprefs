@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AD9C4D5B-C7CA-4392-B469-0DDDF1356E67}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitManipulation/Program.cs">
+    <Files>
+      <File FileName="BitManipulation/Program.cs" Line="9" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BitManipulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

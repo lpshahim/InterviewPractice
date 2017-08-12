@@ -1,0 +1,1 @@
+/Users/Louis-Philip/Projects/StacksAndQueues/StacksAndQueues/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
